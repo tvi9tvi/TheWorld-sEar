@@ -1,0 +1,74 @@
+body{background-color: black;}
+
+.menu{
+ background-color: black;
+ margin: 0;
+ padding-right: 20px;
+}
+
+.menu a {display: block;
+padding: 20px 25px;
+color: white;
+text-decoration: none;
+float: left;
+}
+
+
+.menu a:hover{
+  background-color:#ff87af;
+}
+span{
+  text-align: left;
+  align-content: left;
+}
+.h1{
+  font-family: monospace;
+  text-align: center;
+  font-size: 80px;
+  color:white;
+  background-color:#9c7041 ;}
+  .threst{ background-color: #e880b2;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  input,textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin bottom: 30px;
+    padding: 20px;
+    font-size: 10px;
+  }
+.submit{
+  background-color: #e880b2
+Colour: black;
+display: inline;
+}
+.message{
+  .h2{
+    font-family: cursive;
+  text-align: center;
+  font-size: 40px;
+  color:white;
+  background-color: #e880b2;
+  font-weight: lighter;
+}
+.button{
+  display: contents;
+}
+.menu, .footerbar{
+   background-color: black;
+   margin: 20px;
+   padding: 20px;
+   overflow: hidden;
+}
+.menu a, .footerbar a{
+  display: block;
+  padding: 20px 25px;
+  color: white;
+  text-decoration: none;
+  float: left;
+}
+.menu a:hover,.footerbar a:hover{
+  background-color: #ff87af;
+}

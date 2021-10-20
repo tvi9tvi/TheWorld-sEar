@@ -1,0 +1,48 @@
+body{
+  background-color: black;
+ }
+.menu{
+ background-color: black;
+ margin: 0;
+ padding-right: 20px;
+}
+
+.menu a {display: block;
+padding: 20px 25px;
+color: white;
+text-decoration: none;
+float: left;
+}
+.menu a:hover{
+  background-color:#ff87af;
+}
+
+.h1{
+  font-size: 80px;
+  font-family: monospace;
+  text-align: center;
+  color: white;
+  background-color: #9c7041;
+}
+.h2{
+  font-family: cursive;
+text-align: center;
+font-size: 40px;
+color:white;
+background-color: #e880b2;
+font-weight: lighter;
+}
+h2{ background-color: white;
+font-size: 20px;}
+.pics img{
+  align-content: center;
+  text-align: center;
+  padding: 20px 25px 20px 25px;
+  margin: 20px 25px 20px 25px;
+}
+.pics{
+display: inline;
+}
+.pro{
+  color: white;
+}

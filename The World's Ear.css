@@ -1,0 +1,81 @@
+body{background-color: black;}
+
+.menu{
+ background-color: black;
+ margin: 0;
+ padding-right: 20px;
+}
+
+.menu a {display: block;
+padding: 20px 25px;
+color: white;
+text-decoration: none;
+float: left;
+}
+
+
+.menu a:hover{
+  background-color:#ff87af;
+}
+span{
+  text-align: left;
+  align-content: left;
+}
+.h1{
+  font-family: monospace;
+  text-align: center;
+  font-size: 80px;
+  color:white;
+  background-color:#9c7041 ;
+}
+img{
+width: 30%;
+}
+
+.h2{
+  font-family: cursive;
+text-align: center;
+font-size: 40px;
+color:white;
+background-color: #9c7041;
+font-weight: lighter;
+}
+.Intro{ background-color: white;
+font-size: 20px;
+}
+p{
+  padding: 20px;
+  margin: 30px;
+}
+h2{
+  padding: 20px;
+  margin: 30px;
+}
+.Video{
+align-content: center;
+text-align: center;
+background-color: #9c7041;
+}
+.pics{
+  align-content: center;
+  text-align: center;
+}
+.refernces{background-color: white;
+font-size: 20px
+}
+.menu, .footerbar{
+   background-color: black;
+   margin: 20px;
+   padding: 20px;
+   overflow: hidden;
+}
+.menu a, .footerbar a{
+  display: block;
+  padding: 20px 25px;
+  color: white;
+  text-decoration: none;
+  float: left;
+}
+.menu a:hover,.footerbar a:hover{
+  background-color: #ff87af;
+}

@@ -1,0 +1,33 @@
+body{background-color: black;}
+
+.menu{
+ background-color: black;
+ margin: 0;
+ padding-right: 20px;
+}
+
+.menu a {display: block;
+padding: 20px 25px;
+color: white;
+text-decoration: none;
+float: left;
+}
+
+
+.menu a:hover{
+  background-color:#ff87af;
+}
+span{
+  text-align: left;
+  align-content: left;
+}
+.h1{
+  font-family: monospace;
+  text-align: center;
+  font-size: 80px;
+  color:white;
+  background-color:#9c7041 ;
+}
+img{
+width: 30%;
+}
